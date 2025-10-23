@@ -9,7 +9,7 @@ author: "Preetham Prathipati"
 
 It runs fully on a **Raspberry Pi 4**, continuously listening through a **dual-microphone array**, classifying detected sounds, estimating their direction and distance, and generating vibrations of varying intensity to alert the wearer.
 
-> **Impact:** Achieved ~95% classification accuracy across common environmental sounds and reduced sound-response latency to under 200 ms.
+ **Impact:** Achieved ~95% classification accuracy across common environmental sounds and reduced sound-response latency to under 200 ms.
 
 ---
 

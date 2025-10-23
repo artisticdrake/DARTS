@@ -3,7 +3,7 @@ title: "DARTS"
 author: "Preetham Prathipati"
 ---
 
-# DARTS — Deaf Assistance System with Real-Time Sound Proximity Estimation
+# DARTS | Deaf Assistance System with Real-Time Sound Proximity Estimation
 
 **DARTS**, a Real-time Tactile System is an assistive-technology project that translates environmental sounds into **tactile feedback**, improving safety and situational awareness for people with hearing impairments.  
 
